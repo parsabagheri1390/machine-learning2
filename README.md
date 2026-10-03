@@ -14,8 +14,6 @@ It is not a substitute for professional medical advice.
 Parsa Bagheri, a 15-year-old Python developer and ML 
 enthusiast from Iran. Future web developer and ml engineer and deep learning engineer and llm Junior!
 
-## Show program performance :
-https://github.com/parsabagheri1390/smartdoctor/blob/main/Animation.gif)
 
 ## my kaggle :
 https://www.kaggle.com/parsabagheri1234
